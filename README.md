@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+OBS: criar um .env.local com o conteudo: NEXT_PUBLIC_API_URL=https://enki.hyoretsu.com
+
 First, run the development server:
 
 ```bash
